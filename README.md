@@ -1,4 +1,4 @@
-# Hello world!
+# Hey there 👋
 
 My name is Mohammed Alamgir Kabir, a passionate Data Scientist & full stack web developer. I have recently been graduated from Technical University of Denmark (DTU) with mojor in Machine Learning (ML) and Data Analysis. I love ♥️ coding and solving problems. I am currently working on:
 
