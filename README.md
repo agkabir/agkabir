@@ -13,10 +13,7 @@ My name is Mohammed Alamgir Kabir, a passionate Data Scientist & full stack web 
 Keras, PySpark
 
 ## CodeWars
-
-This is the GitHub repository where I save copies of the katas I've completed on
-[codewars.com](https://www.codewars.com/).
-
+My codewars profile badge
 [![Profile badge](https://www.codewars.com/users/ag.kabir/badges/large)](https://www.codewars.com/users/ag.kabir)
 <!---
 agkabir/agkabir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
