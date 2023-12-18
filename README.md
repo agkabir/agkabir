@@ -7,6 +7,7 @@ My name is Mohammed Alamgir Kabir, a passionate Data Scientist & full stack web 
 - Graduated from HackYourFuture-CPH
 
 ## Technical Skills
+- Data Visualization: Power BI, Excel, Pivot-tables, Power Query, DAX, Matplotplib, Seaborn, Bokeh, and Plotly.
 - Machine Learning : Regression, Classification, Clustering, Decision Trees, NLP
 - Deep Learning : ANN, CNN, VAE, LSTM, U-NET, GAN
 - Languages: Python, Matlab, R, SAS, MySQL, Node.js, JavaScript, Typescript, C#, Java, HTML/CSS
