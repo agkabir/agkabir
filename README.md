@@ -11,7 +11,7 @@ My name is Mohammed Alamgir Kabir, a passionate Data Scientist & full stack web 
 - Machine Learning : Regression, Classification, Clustering, Decision Trees, NLP
 - Deep Learning : ANN, CNN, VAE, LSTM, U-NET, GAN
 - Languages: Python, Matlab, R, SAS, MySQL, Node.js, JavaScript, Typescript, C#, Java, HTML/CSS
-- Framework & Libraries: React.js, Streamlit, Flask, Jupyter, Numpy, Pandas, Scikit-learn, PyTorch, TensorFlow,
+- Framework & Libraries: React.js, Streamlit, Flask, Django, Jupyter, Numpy, Pandas, Scikit-learn, PyTorch, TensorFlow,
 Keras, PySpark
 <!---
 ## CodeWars
