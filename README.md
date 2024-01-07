@@ -8,7 +8,7 @@ My name is Mohammed Alamgir Kabir, a passionate Data Scientist & full stack web 
 
 ## Technical Skills
 - Data Visualization: Power BI, Excel, Pivot-tables, Power Query, DAX, Matplotplib, Seaborn, Bokeh, and Plotly.
-- Machine Learning : Regression, Classification, Clustering, Decision Trees, NLP
+- Machine Learning : Regression, Classification, Clustering, Decision Trees, NLP, MLOps, DVC
 - Deep Learning : ANN, CNN, VAE, LSTM, U-NET, GAN
 - Languages: Python, Matlab, R, SAS, MySQL, Node.js, JavaScript, Typescript, C#, Java, HTML/CSS
 - Framework & Libraries: React.js, Streamlit, Flask, Django, Jupyter, Numpy, Pandas, Scikit-learn, PyTorch, TensorFlow,
